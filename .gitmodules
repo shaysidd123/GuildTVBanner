@@ -1,0 +1,3 @@
+[submodule "GuildTV"]
+	path = GuildTV
+	url = git@github.com:shaysidd123/GuildTVBanner.git
