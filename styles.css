@@ -1,0 +1,42 @@
+@font-face {
+  font-family: myFront;
+  src: url(Metric-Light.ttf);
+}
+body{
+  background-color: black;
+}
+
+img{
+  height: 115px;
+}
+.HeaderText{
+  display: flex;
+  align-items: center;
+  border: 0.25rem outset white;
+  padding: 20px;
+  background: linear-gradient(to bottom right,#553c9a,#6E529D,#7F4F9A);
+  /* background: linear-gradient(to left, #553c9a, #b393d3,#7F4F9A); */
+  border-radius: 10px;
+  gap: 15px;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+}
+
+.header{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 70px;
+  font-weight: 600;
+  color: white;
+
+
+  
+}
+
+.headline{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:white;
+  font-size: 30px;
+}
